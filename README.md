@@ -1,0 +1,1 @@
+# AI-system-to-predict-the-batch-quality-and-extrapolate-the-data-for-the-QC-of-the-batch
